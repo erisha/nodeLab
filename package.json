@@ -1,0 +1,14 @@
+{
+  "name": "node_examples",
+  "version": "1.0.0",
+  "description": "node app examples",
+  "main": "script.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Erisha",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
