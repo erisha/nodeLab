@@ -4,7 +4,8 @@
   "description": "node app examples",
   "main": "script.js",
   "scripts": {
-    "test": "start"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
   },
   "author": "Erisha",
   "license": "ISC",
